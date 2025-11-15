@@ -300,5 +300,6 @@ If you want to learn more about the technologies used:
 
 <div align="center">
 ⭐ If you find this project helpful, please consider giving it a star! ⭐
+    
 Last Updated: November 2025
 </div>
